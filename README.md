@@ -3,6 +3,6 @@ ruTorrent RPC
 
 A file that allows secure API calls with ruTorrent.
 
-This file isn't a part of the main repo because Novik (novik65@gmail.com) decided that he'd stop answering my emails when I tried to add it in.
+This file isn't a part of the main repo because Novik (novik65@gmail.com) decided that he'd stop answering my emails when I asked him to to add it to the main repo.
 
 This file is necessary because ruTorrent has no API to securely return torrent data. If I returned data the same way that ruTorrent fetches it, anyone could control anyone else's server.
